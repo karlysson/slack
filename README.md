@@ -1,24 +1,68 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Logo of the project](https://raw.githubusercontent.com/karlysson/chatbot/master/app/assets/images/logo.png)
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+# Messenger Slack
+This application is a slack clone.
 
-* Configuration
+## Technology 
 
-* Database creation
+Here are the technologies used in this project.
 
-* Database initialization
+* Ruby version  2.5.1
+* Ruby on Rails 
+* Docker 
+* PostgreSql
+*
+*
 
-* How to run the test suite
+## Services Used
 
-* Services (job queues, cache servers, search engines, etc.)
+* Github
+* Heroku
 
-* Deployment instructions
+## Used Tools
 
-* ...
+* [Swaggerhub](https://app.swaggerhub.com/)
+
+## Ruby Gems
+
+* 
+
+## Features
+
+The main features of the application are;
+
+* 
+* 
+* 
+
+Future features
+
+* 
+
+
+## Links
+
+- Project homepage: 
+- Repository: https://github.com/karlysson/slack
+  - In case of sensitive bugs like security vulnerabilities, please contact
+    karlysson.alves@gmail.com directly instead of using issue tracker. We value your effort
+    to improve the security and privacy of this project!
+
+## Versioning
+
+1.0.0.0
+
+
+## Authors
+
+* **Karlysson Alves** 
+
+See also the list of [contributors](https://github.com/karlysson/slack/graphs/contributors) who participated in this project.
+
+
+## Contributing
+
+We encourage you to contribute with the slack clone. Please follow github and join us!

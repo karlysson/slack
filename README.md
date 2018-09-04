@@ -1,5 +1,5 @@
 
-![Logo of the project](https://raw.githubusercontent.com/karlysson/chatbot/master/app/assets/images/logo.png)
+![Logo of the project](https://raw.githubusercontent.com/karlysson/slack/master/app/assets/images/logo.png)
 
 
 
@@ -14,8 +14,6 @@ Here are the technologies used in this project.
 * Ruby on Rails 
 * Docker 
 * PostgreSql
-*
-*
 
 ## Services Used
 
@@ -28,19 +26,18 @@ Here are the technologies used in this project.
 
 ## Ruby Gems
 
-* 
+* Materialize
+* Redis
+* Devise
+* Rspec Rails
 
 ## Features
 
 The main features of the application are;
 
-* 
-* 
-* 
-
-Future features
-
-* 
+* Communication of the team within groups.
+* Private conversation between two members.
+* Specific subject channels.
 
 
 ## Links

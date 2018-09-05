@@ -10,3 +10,4 @@ class User < ApplicationRecord
   def my_teams
     self.teams + self.member_teams
   end
+end

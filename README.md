@@ -14,7 +14,6 @@ Here are the technologies used in this project.
 * Ruby on Rails 
 * Docker 
 * PostgreSql
-* Codeship
 * Heroku
 
 ## Services Used

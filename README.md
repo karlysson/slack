@@ -2,7 +2,6 @@
 ![Logo of the project](https://raw.githubusercontent.com/karlysson/slack/master/app/assets/images/logo.png)
 
 
-
 # Messenger Slack
 This application is a slack clone.
 

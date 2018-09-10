@@ -15,6 +15,8 @@ Here are the technologies used in this project.
 * Docker 
 * PostgreSql
 * Heroku
+* postgre
+* Redis
 
 ## Services Used
 
@@ -28,7 +30,6 @@ Here are the technologies used in this project.
 ## Ruby Gems
 
 * Materialize
-* Redis
 * Devise
 * Rspec Rails
 

@@ -14,9 +14,14 @@ Here are the technologies used in this project.
 * Ruby on Rails 
 * Docker 
 * PostgreSql
+<<<<<<< HEAD
 * Heroku
 * postgre
 * Redis
+=======
+* Redis
+* Rspec
+>>>>>>> readme
 
 ## Services Used
 
@@ -44,7 +49,7 @@ The main features of the application are;
 
 ## Links
 
-- Project homepage: 
+- Project homepage: https://f9slack.herokuapp.com/
 - Repository: https://github.com/karlysson/slack
   - In case of sensitive bugs like security vulnerabilities, please contact
     karlysson.alves@gmail.com directly instead of using issue tracker. We value your effort

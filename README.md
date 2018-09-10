@@ -14,14 +14,10 @@ Here are the technologies used in this project.
 * Ruby on Rails 
 * Docker 
 * PostgreSql
-<<<<<<< HEAD
 * Heroku
 * postgre
 * Redis
-=======
-* Redis
 * Rspec
->>>>>>> readme
 
 ## Services Used
 

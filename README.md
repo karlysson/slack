@@ -5,6 +5,8 @@
 # Messenger Slack
 This application is a slack clone.
 
+![Chat Preview](https://raw.githubusercontent.com/karlysson/slack/master/public/print.png)
+
 ## Technology 
 
 Here are the technologies used in this project.

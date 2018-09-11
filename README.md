@@ -12,9 +12,8 @@ Here are the technologies used in this project.
 * Ruby version  2.5.1
 * Ruby on Rails 
 * Docker 
+* Docker Compose
 * PostgreSql
-* Heroku
-* postgre
 * Redis
 * Rspec
 

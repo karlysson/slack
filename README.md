@@ -34,6 +34,24 @@ Here are the technologies used in this project.
 * Devise
 * Rspec Rails
 
+## Getting started
+
+* Dependency
+  - Docker
+  - Docker Compose
+
+* To build the containers:
+  - sudo docker-compose build
+
+* To create the bank and do as migrations:
+  - sudo docker-compose run --rm website bundle exec rake db:create db:migrate
+
+* To install as gens:
+  - sudo docker-compose run --rm website bundle install
+
+* To run the project:
+  - sudo docker-compose up
+
 ## Features
 
 The main features of the application are;

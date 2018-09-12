@@ -50,7 +50,12 @@ Here are the technologies used in this project.
     $ [sudo] docker-compose run --rm website bundle install
 
 * To run the project:
+    $ [sudo] gem install github_changelog_generator
     $ [sudo] docker-compose up
+
+
+
+    $ sudo docker-compose up
 
 ## Features
 
